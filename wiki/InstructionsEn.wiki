@@ -4,9 +4,9 @@ By memedarwin ([http://vivachina-tata.blogspot.com/])
 
 You use proxy because [your reason here] and mirrorrr  can help you do that better.  The opensource program is written by Bslatkin  and run on Google's application platform "Google Appengine ". It is free, secure, fast and belongs to you after you build it. Here is a short tutorial for everyone interested but with no programming knowledge.
 
-  #  Sign up for an AppEngine account. Then "Create an Application"，you will need a cellphone to validate your account. After validation, you will give your proxy a name (identifier)， which can be accessed via identifier.appspot.com. Here we use xxx as an example.
-  # Download the App Engine SDK.
-  # Download and install Python 2.5.4 for your platform from the Python website 
+  #  [http://appengine.google.com/ Sign up] for an App Engine account. Then "Create an Application"，you will need a cellphone to validate your account. After validation, you will give your proxy a name (identifier)， which can be accessed via identifier.appspot.com. Here we use xxx as an example.
+  # [http://code.google.com/appengine/downloads.html Download] the App Engine SDK
+  # Download and install Python 2.5.4 for your platform from the [http://python.org/download Python website]
   # Install the App Engine SDK.
   # Create a folder named xxx in the Appengine SDK installation folder(e.g. C:\Program Files\Google\google_appengine\).
   # Download mirrorrr source files. There are two parts.（1) [http://code.google.com/p/mirrorrr/source/browse/#svn/trunk]  Download these files to your xxx folder; （2）[http://code.google.com/p/mirrorrr/source/browse/#svn/trunk/static%3Fstate%3Dclosed] Create a "static" folder in xxx and download these files to it;  To save you time, I have upload the two parts files to [http://rapidshare.com/files/193345202/mirror.rar] so you can download and unzip it to your xxx folder.
