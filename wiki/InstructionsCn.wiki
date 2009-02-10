@@ -4,8 +4,8 @@ By memedarwin (http://vivachina-tata.blogspot.com/)
 
 开始：
 
-  # Sign up for an App Engine account. 先注册帐号，用GOOGLE帐号登陆后 "Create an Applicaton"，然后会要求用手机接收一个短信认证号。认证通过后，你需要给这个代理起个名字（以xxx为例），作为 identifier，以后可以通过 xxx.appspot.com 来访问。
-  # Download 下载 the App Engine SDK.
+  # [http://appengine.google.com/ Sign up] for an App Engine account. 先注册帐号，用GOOGLE帐号登陆后 "Create an Applicaton"，然后会要求用手机接收一个短信认证号。认证通过后，你需要给这个代理起个名字（以xxx为例），作为 identifier，以后可以通过 xxx.appspot.com 来访问。
+  # [http://code.google.com/appengine/downloads.html Download] 下载 the App Engine SDK.
   # Download and install 下载且安装 Python 2.5 for your platform from [http://python.org/download]
   # Install 安装 the App Engine SDK.
   # 在SDK安装目录下用注册的identifier新建文件夹xxx
